@@ -1,0 +1,4 @@
+name: hellosekai
+version: '1.0-SNAPSHOT'
+main: dev.ringoxd.hellosekai.Hellosekai
+api-version: '1.20'
